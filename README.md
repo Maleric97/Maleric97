@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="header" width="100%"/>
+
 # Hi, I'm Asher 👋
 
 AI Engineer intern based in Singapore 🇸🇬
