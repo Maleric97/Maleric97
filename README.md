@@ -12,7 +12,7 @@
 </div>
 
 ## 📌 About Me
-- 🎓 AI Engineer based in Singapore!
+- 🎓 AI Engineer intern based in Singapore!
 - 🤖 Exploring AI engineering and LLM integrations
 
 ### 🎯 Personal Interests
