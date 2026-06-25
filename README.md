@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="header" width="100%"/>
 
-# Hi, I'm Asher 👋
+<h1 align="center">Hi, I'm Asher 👋</h1>
 
 AI Engineer intern based in Singapore 🇸🇬
 
@@ -19,7 +19,10 @@ AI Engineer intern based in Singapore 🇸🇬
 - 🤖 Exploring AI engineering and LLM integrations
 
 ## 🎯 Personal Interests
-- 🥋 Judo, BJJ, lifting, video games, and reading when I'm not coding!
+- 🥋 Judo & BJJ
+- 🏋️ Lifting
+- 🎮 Video games
+- 📖 Reading
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asher-lim-369aa7389/)
