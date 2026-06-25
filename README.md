@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="header" width="100%"/>
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
